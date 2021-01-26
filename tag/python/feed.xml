@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://swhan9404.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://swhan9404.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-01-26T15:21:05+09:00</updated>
+  <id>https://swhan9404.github.io/tag/python/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">승운이의 도화지 | </title>
+  
+
+  
+    <subtitle>나의 IT 성장일기</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">블로그 시작</title>
+      <link href="https://swhan9404.github.io/%EC%B2%AB%EA%B8%80%EC%9E%91%EC%84%B1" rel="alternate" type="text/html" title="블로그 시작" />
+      <published>2021-01-10T06:52:00+09:00</published>
+      <updated>2021-01-10T06:52:00+09:00</updated>
+      <id>https://swhan9404.github.io/%EC%B2%AB%EA%B8%80%EC%9E%91%EC%84%B1</id>
+      <content type="html" xml:base="https://swhan9404.github.io/%EC%B2%AB%EA%B8%80%EC%9E%91%EC%84%B1">&lt;p&gt;드디어 블로그가 시작됩니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>swhan9404</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">드디어 블로그가 시작됩니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
